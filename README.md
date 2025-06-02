@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋,
+🚀 Developer | Passionate Coder | Always Improving  
+I work with **C++**, **Dart**, and **Flutter** to build real, cross-platform applications.  
+Focused on improving my skills every day and creating useful software people can rely on.  
+I enjoy building, learning, and pushing my limits in both development and problem solving.  
+Also, I have a strong command of English which helps me grow faster in tech 🌍💻
+
 
 <!--
 **Moatasem-programing/Moatasem-programing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
